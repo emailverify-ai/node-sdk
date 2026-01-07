@@ -34,7 +34,7 @@
     "type": "git",
     "url": "https://github.com/emailverify-ai/node-sdk.git"
   },
-  "homepage": "https://emailverify.com",
+  "homepage": "https://emailverify.ai",
   "devDependencies": {
     "@types/node": "^20.0.0",
     "eslint": "^8.0.0",
