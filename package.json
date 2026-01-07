@@ -1,5 +1,5 @@
 {
-  "name": "@emailverify/node",
+  "name": "@emailverify-ai/node",
   "version": "1.0.0",
   "description": "Official EmailVerify Node.js SDK for email verification",
   "main": "dist/index.js",
